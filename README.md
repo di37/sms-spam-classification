@@ -52,4 +52,4 @@ python template.py
 
 7 - Perform Data Cleaning, Exploratory Data Analysis, Data Preprocessing and Token Visualizations in the notebooks present in the notebooks folder.
 
-8 - Make a new directory utils. Under this folder create `__init__.py` and `helper.py`. In this python script, it will include the preprocessing functions that are used for preprocessing the text messages which will be used for preprocessing the input data from the user before it gets fed to the model. Or it can be downloaded it from this repository.
+8 - Make a new directory utils. Under this folder create `__init__.py` and `helper.py`. Copy the contents of `helper.py` from this repository and paste it in the file. 
