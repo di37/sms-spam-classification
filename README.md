@@ -51,3 +51,5 @@ python template.py
 6 - Download the dataset and place in data/raw folder.
 
 7 - Perform Data Cleaning, Exploratory Data Analysis, Data Preprocessing and Token Visualizations in the notebooks present in the notebooks folder.
+
+8 - Make a new directory utils, under this folder create `__init__.py` and `helper.py`. In this python script, it will include the preprocessing functions that are used for preprocessing the text messages which will be used for preprocessing the input data from the user before it gets fed to the model. Or it can be downloaded it from this repository.
